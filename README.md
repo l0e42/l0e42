@@ -4,7 +4,7 @@ and lots of other things. I also like algorithms and complexity, especialy when 
 - 🌱 I’m currently doing PhD at Reykjavik University on Theoretical Computer Science, which i am plannig to finish by the end of 2022. 
 - 💞️ I’m looking to collaborate on multi-trace runtime monitoring, epistemic temporal logic, rewritting rules fo CCS and implementing some of the applications of
 these works. 
-- 📫 How to reach me: <my name but without the last e><the number after 18> at ru.is
+- 📫 How to reach me: <name without last e~no spaces~the number after 18> at ru.is
 
 <!---
 l0e42/l0e42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
