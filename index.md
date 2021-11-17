@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-https://github.com/l0e42/l0e42.github.io/blob/main/profile.jpg
 <!---[Link to another page](./another-page.html).
 --->
 
