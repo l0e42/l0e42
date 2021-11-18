@@ -1,4 +1,7 @@
 title: Welcome!
+logo: /assets/img/logo.png
 description: This is a work in progress
 # theme: jekyll-theme-minimal
+show_downloads: false
+google_analytics: false
 remote_theme: l0e42/webpage_theme
