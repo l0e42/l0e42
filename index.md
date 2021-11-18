@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About me 
-![Profile picture](https://github.com/l0e42/l0e42.github.io/blob/main/profile.jpg)
+![Profile picture](https://github.com/l0e42/l0e42.github.io/blob/main/profile_small.png)
 * 👋 Hi, I’m  Ellie (@l0e42)
 * 👀 I’m interested in theoretical computer science and mathematical foundations. I like set theory, automata theory, proof theory, graph theory, finite model theory 
 and lots of other things. I also like algorithms and complexity, especialy when paired with the above, and even more when there are graphs involved. 
