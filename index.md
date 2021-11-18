@@ -1,9 +1,6 @@
-<!---
 ---
 layout: default
 ---
-[Link to another page](./another-page.html).
---->
 
 # About me 
 ![Profile picture](https://github.com/l0e42/l0e42.github.io/blob/main/profile.jpg)
