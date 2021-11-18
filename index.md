@@ -5,7 +5,7 @@ layout: default
 --->
 
 # About me 
-
+![Thumbnail of Minimal](profile.png)
 * 👋 Hi, I’m  Ellie (@l0e42)
 * 👀 I’m interested in theoretical computer science and mathematical foundations. I like set theory, automata theory, proof theory, graph theory, finite model theory 
 and lots of other things. I also like algorithms and complexity, especialy when paired with the above, and even more when there are graphs involved. 
