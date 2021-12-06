@@ -268,7 +268,7 @@ ion-icon {
 
 #spin:after {
   content: "";
-  animation: spin 8s linear infinite;
+  animation: spin 10s linear infinite;
 }
 
 @keyframes spin {
