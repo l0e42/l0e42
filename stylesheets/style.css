@@ -64,7 +64,11 @@ h1 {
 
 h2 {
   font-size: 1.55em;
-  padding: 0 1em;
+  padding: 0 0em;
+}
+h3 {
+  font-size: 1.25em;
+  padding: 10px;
 }
 
 a {
@@ -84,6 +88,10 @@ ion-icon {
   padding: 1em 0 0;
 }
 
+.textbox {
+  text-align: left;
+  width:600px
+}
 .padDown {
   padding: 0.5em 0em 0.5em;
 }
@@ -95,12 +103,11 @@ ion-icon {
 }
 
 .liststyle {
-  padding: 30px;
+  padding: 20px;
   text-align: left;
   list-style-type: circle;
   list-style-position: outside;
 }
-
 .inner {
   display: inline-block;
   padding: 40px;
@@ -182,9 +189,9 @@ ion-icon {
   *zoom: 1;
   *display: inline;
   margin: .5em;
-  -moz-transition: all 0.15s ease;
-  -o-transition: all 0.15s ease;
-  -webkit-transition: all 0.15s ease;
+  -moz-transition: all 0.1s ease;
+  -o-transition: all 0.1s ease;
+  -webkit-transition: all 0.1s ease;
   transition: all 0.15s ease;
 }
 
@@ -213,7 +220,6 @@ ion-icon {
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-
 .icon-resume {
   color: #e95950;
 }
