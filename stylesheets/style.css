@@ -291,13 +291,13 @@ ion-icon {
     content: "Process algebras";
   }
   40% {
-    content: "Equational logics";
+    content: "Equational logic";
   }
   50% {
     content: "Model checking";
   }
   60% {
-    content: "Concurency theory";
+    content: "Concurrency theory";
   }
   70% {
     content: "Runtime verification";
