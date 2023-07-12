@@ -1,56 +1,76 @@
-<!DOCTYPE html>
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<head>
-		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
 
-		<!-- include compass css translation -->
-		<link href="stylesheets/style.css" type="text/css" rel="stylesheet" >
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<!-- fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<!-- Import favicons -->
+	<link rel="shortcut icon" type="image/png" href="resources/favicon.png"/>
+	<!-- include compass css translation -->
+	<link href="resources/style.css" rel="stylesheet" type="text/css" />
+	<!-- import icons -->
+	<script src="https://unpkg.com/ionicons@4.2.4/dist/ionicons.js"></script>
+<title>Ellie's homepage</title>
 
-		<!-- fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
 
-		<!-- import icons -->
-		<script src="https://unpkg.com/ionicons@4.2.4/dist/ionicons.js"></script>
-		
-		<!-- Import favicons -->
-		<link rel="shortcut icon" type="image/png" href="../resources/favicon.png"/>
+<body>
 
+<div id="container">
+	<div id="header">
+		<h1>Elli Anastasiadi</h1>
+		<div id="info">
+			Postdoc at <a href="http://www.uu.se/en/">Uppsala University</a>,<br />
+			<a href="http://www.it.uu.se/first?lang=en">Department of Information Technology</a><br />
+		</div>
 
-		<title>Ellie's homepage</title>
-	</head>
-
-	<div class="outer">
-		<div class="row">
-		 <div class="column ">
-			<div class="inner">
-				<section class = "gap loadanimation">
-					<img src="resources/avatar.jpg" class="avatar">
-					<h1 class="padDown">I am Elli Anastasiadi</h1>
-					<p class="textbox sideForLeftAlignPadding">I am interested in <span id="spin"></span></p>
-        	    		</section>
+		<div id="nav">
+			<center>
 				<ul class="gap social">
 					<li class="icon-resume tile"><a href= "resources/CV.pdf"><ion-icon name="document"></ion-icon><br><br>CV</a></li>
 					<li class="icon-transcript tile"><a href="pages/publications.html"><ion-icon name="school"></ion-icon><br><br>Publications</a></li>
 					<li class="icon-pages tile"><a href="pages/teaching.html"><ion-icon name="albums"></ion-icon><br><br>Teaching</a></li>
-<!--					<li class="icon-linkedin tile"><a href="https://www.linkedin.com/in/michaelduydao/"><ion-icon name="logo-linkedin"></ion-icon><br><br>LinkedIn</a></li> -->
-					<li class="icon-email tile"><a href="mailto: anastasiadi.ell0@gmail.com"><ion-icon name="mail"></ion-icon><br><br>Email</a></li>
+					<li class="icon-email tile"><a href= "index.html"><ion-icon name="home"></ion-icon><br><br>Home</a></li>
 				</ul>
-				<section class = "loadanimation social textbox">
-				</section>
-			</div>
-		  </div>
-		  <div class="column"> <h2 class="padDownALot listOfNews">About: </h2>
-		   	<div class="textbox"> 
-		   		<ol class="inner listOfNews">
-		   			<li>Since late October 2022 I am a postdoc at Uppsala University. I work with Parosh Abdulla and the algorithmic program verification group. </li>
+			</center>
+		</div>
+	</div>
+
+	<div id="content">
+		<h3>About</h3>
+		<p>I am interested in <span id="spin"></span></p>
+		<!--<p> I am interested in formal verification, runtime verification, modal logics, hyperlogics, weak memory models, and process algebras.</p>
+		-->
+		<div id="News">
+		<ul class="inner listOfNews">
+					<li>Since late October 2022 I am a postdoc at the <a href="http://www.it.uu.se/first?lang=en">Department of Information Technology</a> at <a href="http://www.uu.se/en/">Uppsala University</a>.</li>
 					<li>I finished my PhD at Reykjavik University in October 2022, under the supervision of Luca Aceto and Anna Ingolfsdottir! :) You can find my dissertation in my publications tab. </li>
 					<li>I moved to Iceland from Greece, where I finished my masters in applied mathematics and computer science in NTUA under the supervision of professors Aris Pagourtzis and Stathis Zachos. You can find my Master's thesis under my publications. </li>
 					<li>My project, "Runtime and Equational Verification of Concurent Systems" was awarded a PhD grant from the Reykjavik University <a href="https://en.ru.is/research/ru-research-fund/">research fund</a> :). Check it out <a href="resources/RANNIS.pdf">here.</a> </li>
-					<li>You can contact me at : lastname.firstname[put here the number before 1] AT [the service form google].com </li>
-				</ol>
-		      </div>
-		 </div>	
-	   </div>
+		</ul>
+		<div id="contact">
+			<p style="float: right;"><img src="resources/photo.jpg" alt="Photo of Elli Anastasiadi" /></p>
+
+			<h3>Contact</h3>
+			<p>
+			<b>Office:</b> Room 105183, &Aring;ngstr&ouml;mlaboratoriet<br />
+			<b>E-mail:</b> <a href="mailto:elli.anastasiadi-SPAMTRAP@it.uu.se">elli.anastasiadi [-at-] it.uu.se</a><br />
+			<b>Phone:</b> +3547747702
+			<br /><br />
+			<b>Postal address:</b><br />
+			Uppsala University<br />
+			Department of Information Technology<br />
+			Att: Elli Anastasiadi<br />
+			SE-751 05 Uppsala<br />
+			Sweden<br />
+			</p>
+		</div>
+	  	
+	</div>
+	  
 </div>
+
+</body>
 </html>
+
